@@ -7,4 +7,8 @@ This is a Readme file for the Directory for the 0x00-shell_basics
 #4- the "4-listmorefiles" is a script that Display current directory contents, including hidden files (starting with .). Use the long format.
 #5- the "5-listfilesdigitonly" is a Display current directory contents ==> in Long format,with user and group IDs displayed numerically,And hidden files (starting with .)
 #6- the "6-firstdirectory" is  a script that creates a directory named my_first_directory in the /tmp/ directory.
-#7- the "7-movethatfile" is a script that Move the file betty from /tmp/ to /tmp/my_first_directory.
+#7- the "7-movethatfile" is a script that Move the file betty from /tmp/ to /tmp/my_first_directory
+#8 the "8-firstdelete" is a script that Delete the file betty.
+
+
+.
