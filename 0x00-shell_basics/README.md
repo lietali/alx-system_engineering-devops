@@ -4,4 +4,5 @@ This is a Readme file for the Directory for the 0x00-shell_basics
 #1- the "1-listit" is a script that Display the contents list of your current directory.
 #2- the "2-bring_me_home" is a script that changes the working directory to the user’s home directory.
 #3- the "3-listfiles" is a script that Display current directory contents in a long format
+#4- the "4-listmorefiles" is a script that Display current directory contents, including hidden files (starting with .). Use the long format.
 
