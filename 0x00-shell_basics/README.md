@@ -10,5 +10,6 @@ This is a Readme file for the Directory for the 0x00-shell_basics
 #7- the "7-movethatfile" is a script that Move the file betty from /tmp/ to /tmp/my_first_directory
 #8 the "8-firstdelete" is a script that Delete the file betty.
 #9 the "9-firstdirdeletion" is a script that Delete the directory my_first_directory that is in the /tmp directory.
+#10- the "10-back" is a script that changes the working directory to the previous one.
 
 .
