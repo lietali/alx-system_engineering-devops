@@ -12,6 +12,7 @@ This is a Readme file for the Directory for the 0x00-shell_basics
 #9 the "9-firstdirdeletion" is a script that Delete the directory my_first_directory that is in the /tmp directory.
 #10- the "10-back" is a script that changes the working directory to the previous one.
 #11- the "11-lists" is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+#12- the "12-file_type " is  a script that prints the type of the file named iamafile
 
 
 .
