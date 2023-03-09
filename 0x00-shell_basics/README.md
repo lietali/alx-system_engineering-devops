@@ -13,6 +13,7 @@ This is a Readme file for the Directory for the 0x00-shell_basics
 #10- the "10-back" is a script that changes the working directory to the previous one.
 #11- the "11-lists" is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 #12- the "12-file_type " is  a script that prints the type of the file named iamafile
+#13- the "13-symbolic_link " is a script that Create a symbolic link to /bin/ls, named __ls__
 
 
 .
